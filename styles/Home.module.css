@@ -4,6 +4,8 @@
   padding: 60px 20px;
   font-family: Arial, Helvetica, sans-serif;
   color: #111;
+  background-color: white;
+  min-height: 100vh;
 }
 
 .profile {
@@ -17,11 +19,13 @@
   text-align: center;
   font-size: 32px;
   margin: 10px 0 35px;
+  color: #111;
 }
 
 .intro {
   text-align: center;
   margin-bottom: 30px;
+  color: #111;
 }
 
 .container section {
@@ -31,16 +35,19 @@
 .container h2 {
   font-size: 16px;
   font-weight: bold;
+  color: #111;
 }
 
 .container ul {
   padding-left: 25px;
   line-height: 1.6;
+  color: #111;
 }
 
 .container p {
   font-size: 14px;
   line-height: 1.5;
+  color: #111;
 }
 
 .container a {
